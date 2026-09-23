@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Purnitha Kalluri
 
-<!--
-**purnithakalluri01/purnithakalluri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Machine Learning Student  
+🏫 Saveetha School of Engineering
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an AI/ML student interested in Python, Machine Learning, Data Analysis, and Artificial Intelligence.
+
+I am currently building practical projects to strengthen my programming and machine learning skills and prepare for internship opportunities.
+
+## 🛠️ Skills
+
+### Programming
+- Python
+- C
+- C++
+
+### Web Development
+- HTML
+- CSS
+
+## 📚 Currently Learning
+
+- NumPy
+- Pandas
+- Data Analysis
+- Machine Learning
+- Scikit-learn
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🚧 Student Performance Prediction — Coming soon
+- 🚧 Customer Churn Prediction — Coming soon
+- 🚧 AI Resume Analyzer — Coming soon
+
+## 🎯 Current Goal
+
+Building practical AI/ML projects and preparing for internship opportunities.
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/purnithakalluri)
